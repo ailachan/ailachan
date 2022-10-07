@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ailachan
-- 👀 I’m interested in ...
+- 👀 I’m interested in Anime
 - 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me?<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QQ:32830121
 
 <!---
 ailachan/ailachan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
